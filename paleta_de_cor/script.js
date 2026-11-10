@@ -63,6 +63,6 @@ function azulAgua(){
 }
 
 function marrom(){
-    tela.style.background = "yellow";
-    nomeCor.innerHTML = "#a74d23";
+    tela.style.background = "#a74d23";
+    nomeCor.innerHTML = "Marrom";
 }
